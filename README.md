@@ -31,6 +31,4 @@
 
 ![이미지테스트](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA0MThfMjc1%2FMDAxNzQ0OTQ2MTY3ODAy.qAPb2LrjmexbNHy5kfjcsoP3rxIGRdsXeY37jMECZKAg.bKa2C0r3xrGLVlOwF3X388h_af8pdSJOolDyYxwyfrgg.PNG%2Fimage.png&type=a340)
 
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA0MThfMjc1%2FMDAxNzQ0OTQ2MTY3ODAy.qAPb2LrjmexbNHy5kfjcsoP3rxIGRdsXeY37jMECZKAg.bKa2C0r3xrGLVlOwF3X388h_af8pdSJOolDyYxwyfrgg.PNG%2Fimage.png&type=a340" width="50 geight="50>
-
 > 인용문구
